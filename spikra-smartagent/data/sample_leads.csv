@@ -1,0 +1,11 @@
+id,name,email,company,interest,ticket
+1,Asha Rao,asha@acme.in,Acme Pvt Ltd,high,"My invoice shows wrong amount"
+2,Rajesh Kumar,rajesh@bazar.in,Bazar Retail,low,
+3,Meera Patel,meera@foodco.com,FoodCo,medium,"Order delayed, please advise"
+4,Vikram Singh,vikram@techdev.io,TechDev,high,
+5,Sara Iyer,sara@homecare.org,HomeCare,medium,"Unable to login to portal"
+6,Anil Desai,anil@finserve.com,FinServe,low,
+7,Neha Sharma,neha@joyshop.in,JoyShop,high,"Need bulk order pricing"
+8,Peter John,peter@globalco.com,GlobalCo,medium,
+9,Leela Nair,leela@eduplus.edu,EduPlus,low,"Refund not processed"
+10,Rohit Verma,rohit@startit.in,StartIt,high,
